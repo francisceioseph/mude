@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="ONV-eg-MeN">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="wto-mE-BcB">
+            <objects>
+                <viewController id="ONV-eg-MeN" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="PrR-RI-qy0"/>
+                        <viewControllerLayoutGuide type="bottom" id="YzW-q5-qQ9"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Myo-z8-oj1">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dez_medidas" translatesAutoresizingMaskIntoConstraints="NO" id="4BT-k9-tj7">
+                                <rect key="frame" x="20" y="153" width="560" height="294"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="4BT-k9-tj7" secondAttribute="height" multiplier="40:21" id="k17-3p-Fjq"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.10588235294117647" green="0.16470588235294117" blue="0.28627450980392155" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="leadingMargin" secondItem="4BT-k9-tj7" secondAttribute="leading" id="P4D-Cg-QvS"/>
+                            <constraint firstItem="4BT-k9-tj7" firstAttribute="centerX" secondItem="Myo-z8-oj1" secondAttribute="centerX" id="YF2-2Y-YVt"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="4BT-k9-tj7" secondAttribute="trailing" id="ko9-1w-oca"/>
+                            <constraint firstItem="4BT-k9-tj7" firstAttribute="centerY" secondItem="Myo-z8-oj1" secondAttribute="centerY" id="sQk-LR-h37"/>
+                        </constraints>
+                    </view>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4Hx-Al-SiF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1574" y="406"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="dez_medidas" width="834" height="330"/>
+    </resources>
+</document>

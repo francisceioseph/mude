@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Tráfico de Influencia</string>
+		<key>text</key>
+		<string>(Redação dada pela Lei nº 9.127, de 1995)
+Art. 332 - Solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por funcionário público no exercício da função: (Redação dada pela Lei nº 9.127, de 1995)
+Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 9.127, de 1995)
+
+Parágrafo único - A pena é aumentada da metade, se o agente alega ou insinua que a vantagem é também destinada ao funcionário. (Redação dada pela Lei nº 9.127, de 1995)</string>
+		<key>exemplo</key>
+		<string>Solicitar determinada quantia em dinheiro sob o pretexto de influenciar a atividade de funcionários públicos na condução de procedimento investigatório, buscando amenizar a situação de determinado investigado.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Advocacia Administrativa</string>
+		<key>text</key>
+		<string>Art. 321 - Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário:
+Pena - detenção, de um a três meses, ou multa.
+
+Parágrafo único - Se o interesse é ilegítimo:
+Pena - detenção, de três meses a um ano, além da multa.</string>
+		<key>exemplo</key>
+		<string>Funcionário público, membro de comissão de sindicância administrativa, que patrocina interesse privado perante a administração pública, valendo-se de sua condição de servidor público da instituição (TRF-1 - ACR: 1998 AP 0001998-69.2008.4.01.3100, Relator: DESEMBARGADOR FEDERAL HILTON QUEIROZ, Data de Julgamento: 06/05/2013, QUARTA TURMA).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Crimes da lei de licitações</string>
+		<key>text</key>
+		<string>Art. 89. Dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes a dispensa ou a inexigibilidade:
+Pena - detenção, de 3 (três) a 5 (cinco) anos, e multa.
+
+Parágrafo único. Na mesma pena incorre aquele que, tendo comprovadamente concorrido para a consumação da ilegalidade, beneficiou-se da dispensa ou inexigibilidade ilegal, para celebrar contrato com o Poder Público. Art. 90. Frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente, o caráter competitivo do procedimento licitatório, com o intuito de obter, para si ou para outrem, vantagem decorrente da adjudicação do objeto da licitação: Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.</string>
+		<key>exemplo</key>
+		<string>Exemplo: Contratação, pela Câmara Municipal, de empresa de assessoria sem o devido procedimento licitatório (TJ-MG - APR: 10023070066412001 MG , Relator: Catta Preta, Data de Julgamento: 01/08/2013, Câmaras Criminais / 2ª CÂMARA CRIMINAL, Data de Publicação: 12/08/2013).
+Exemplo: Participação de empresas vinculadas a sócios/administradores pertencentes a um mesmo grupo familiar, com identidade de propostas e proximidade dos valores apresentadas em suas propostas (TJ-DF - APR: 975934520098070001 DF 0097593-45.2009.807.0001, Relator: HUMBERTO ADJUTO ULHÔA, Data de Julgamento: 31/05/2012, 3ª Turma Criminal, Data de Publicação: 05/06/2012, DJ-e Pág. 170)</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Corrupção Eleitoral</string>
+		<key>text</key>
+		<string>Art. 299. Dar, oferecer, prometer, solicitar ou receber, para si ou para outrem, dinheiro, dádiva, ou qualquer outra vantagem, para obter ou dar voto e para conseguir ou prometer abstenção, ainda que a oferta não seja aceita:
+Pena - reclusão até quatro anos e pagamento de cinco a quinze dias-multa.</string>
+		<key>exemplo</key>
+		<string>Exemplo: Candidato que ofereceu recursos financeiros a eleitores em troca de votos (TRE-MT - RC: 62002 MT , Relator: PEDRO FRANCISCO DA SILVA, Data de Julgamento: 11/03/2014, Data de Publicação: DEJE - Diário de Justiça Eletrônico, Tomo 1607, Data 20/03/2014, Página 2-12).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Concussão</string>
+		<key>text</key>
+		<string>Art. 316 - Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida:
+Pena - reclusão, de dois a oito anos, e multa.</string>
+		<key>exemplo</key>
+		<string>Servidor público que, em razão de fiscalização de determinado estabelecimento comercial, exige, no exercício de sua função pública e em razão dela, vantagem financeira indevida para evitar as autuações devidas (TJ-SP - APL: 00001175620098260428 SP 0000117-56.2009.8.26.0428, Relator: Ivana David, Data de Julgamento: 13/05/2014, 4ª Câmara de Direito Criminal, Data de Publicação: 14/05/2014).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Corrupção ativa em transação comercial internacional</string>
+		<key>text</key>
+		<string>Art. 337-B. Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a funcionário público estrangeiro, ou a terceira pessoa, para determiná-lo a praticar, omitir ou retardar ato de ofício relacionado a transação comercial internacional: (Incluído pela Lei nº 10467, de 11.6.2002)
+Pena – reclusão, de 1 (um) a 8 (oito) anos, e multa. (Incluído pela Lei nº 10467, de 11.6.2002)
+
+Parágrafo único. A pena é aumentada de 1/3 (um terço), se, em razão da vantagem ou promessa, o funcionário público estrangeiro retarda ou omite o ato de ofício, ou o pratica infringindo dever funcional. (Incluído pela Lei nº 10467, de 11.6.2002)</string>
+		<key>exemplo</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Modificação ou alteração não autorizada de sistema de informações</string>
+		<key>text</key>
+		<string>Incluído pela Lei nº 9.983, de 2000)
+Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente: (Incluído pela Lei nº 9.983, de 2000)
+Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa. (Incluído pela Lei nº 9.983, de 2000)
+
+Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou alteração resulta dano para a Administração Pública ou para o administrado.(Incluído pela Lei nº 9.983, de 2000)</string>
+		<key>exemplo</key>
+		<string>Funcionário da Caixa Econômica Federal que, sem autorização, exclui, indevidamente, de sistema informatizado da referida empresa pública, restrições em conta corrente mantida na instituição financeira (TRF-4 - ACR: 128 SC 2007.72.06.000128-9, Relator: Revisor, Data de Julgamento: 09/12/2009, OITAVA TURMA, Data de Publicação: D.E. 13/01/2010)</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Condescendência criminosa</string>
+		<key>text</key>
+		<string>Art. 320 - Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente:
+Pena - detenção, de quinze dias a um mês, ou multa</string>
+		<key>exemplo</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Inserção de dados falsos em sistema de informações</string>
+		<key>text</key>
+		<string>(Incluído pela Lei nº 9.983, de 2000)
+Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou para causar dano: (Incluído pela Lei nº 9.983, de 2000))
+Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa. (Incluído pela Lei nº 9.983, de 2000)</string>
+		<key>exemplo</key>
+		<string>Particular atuando como intermediário entre servidor do INSS e terceiro beneficiário concorrendo para a inserção de dados falsos no sistema informatizado do INSS com o objetivo de implantar benefício previdenciário, sem o devido tempo de contribuição (TRF-4 - ACR: 50015753320114047110 RS 5001575-33.2011.404.7110, Relator: SEBASTIÃO OGÊ MUNIZ, Data de Julgamento: 02/09/2014, SÉTIMA TURMA, Data de Publicação: D.E. 02/09/2014).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Peculato</string>
+		<key>text</key>
+		<string>Art. 312 - Apropriar-se o funcionário público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio:
+Pena - reclusão, de dois a doze anos, e multa.
+
+§ 1º - Aplica-se a mesma pena, se o funcionário público, embora não tendo a posse do dinheiro, valor ou bem, o subtrai, ou concorre para que seja subtraído, em proveito próprio ou alheio, valendo-se de facilidade que lhe proporciona a qualidade de funcionário.
+Peculato culposo
+§ 2º - Se o funcionário concorre culposamente para o crime de outrem:
+Pena - detenção, de três meses a um ano.
+
+§ 3º - No caso do parágrafo anterior, a reparação do dano, se precede a sentença irrecorrível, extingue a punibilidade; se lhe é posterior, reduz de metade a pena imposta.</string>
+		<key>exemplo</key>
+		<string>Vereador que utilizava parte dos vencimentos de funcionários investidos em cargos comissionados, alguns que nem sequer trabalhavam de fato, que eram para ele repassados e posteriormente utilizados no pagamento de outras pessoas que também prestavam serviços em sua assessoria, porém sem estarem investidas em cargos públicos. (STJ - REsp: 1244377 PR 2011/0050761-5, Relator: Ministro SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 03/04/2014, T6 - SEXTA TURMA, Data de Publicação: DJe 15/04/2014)
+
+Exemplo: Funcionário público que, valendo-se de sua função e sabendo que determinados bens públicos, leia-se tratores, encontravam-se desvigiados, subtraiu combustível dos tanques dos referidos veículos (TJ-SP - APL: 00185242120118260047 SP 0018524-21.2011.8.26.0047, Relator: Otávio de Almeida Toledo, Data de Julgamento: 25/03/2014, 16ª Câmara de Direito Criminal, Data de Publicação: 26/03/2014). Peculato culposo
+Exemplo: Funcionário público que cede sua senha pessoal para que outros da mesma repartição tenha acesso a determinado sistema, ensejando a alteração de valores unitários e pagamentos a maior sem o seu conhecimento e consentimento (TJ-MG - APR: 10024096934419001 MG , Relator: Furtado de Mendonça, Data de Julgamento: 23/04/2013, Câmaras Criminais / 6ª CÂMARA CRIMINAL, Data de Publicação: 03/05/2013).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Crimes de responsabilidade de prefeitos e vereadores</string>
+		<key>text</key>
+		<string>Art. 1º São crimes de responsabilidade dos Prefeitos Municipais, sujeitos ao julgamento do Poder Judiciário, independentemente do pronunciamento da Câmara dos Vereadores:
+
+I - apropriar-se de bens ou rendas públicas, ou desviá-los em proveito próprio ou alheio;
+
+II - utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos;
+
+III - desviar, ou aplicar indevidamente, rendas ou verbas públicas;
+
+IV - empregar subvenções, auxílios, empréstimos ou recursos de qualquer natureza, em desacordo com os planos ou programas a que se destinam;
+
+V - ordenar ou efetuar despesas não autorizadas por lei, ou realizá-Ias em desacordo com as normas financeiras pertinentes;
+
+VI - deixar de prestar contas anuais da administração financeira do Município a Câmara de Vereadores, ou ao órgão que a Constituição do Estado indicar, nos prazos e condições estabelecidos;
+
+VII - Deixar de prestar contas, no devido tempo, ao órgão competente, da aplicação de recursos, empréstimos subvenções ou auxílios internos ou externos, recebidos a qualquer titulo;
+
+VIII - Contrair empréstimo, emitir apólices, ou obrigar o Município por títulos de crédito, sem autorização da Câmara, ou em desacordo com a lei;
+
+IX - Conceder empréstimo, auxílios ou subvenções sem autorização da Câmara, ou em desacordo com a lei;
+
+X - Alienar ou onerar bens imóveis, ou rendas municipais, sem autorização da Câmara, ou em desacordo com a lei;
+
+XI - Adquirir bens, ou realizar serviços e obras, sem concorrência ou coleta de preços, nos casos exigidos em lei; 
+
+XII - Antecipar ou inverter a ordem de pagamento a credores do Município, sem vantagem para o erário; 
+
+XIII - Nomear, admitir ou designar servidor, contra expressa disposição de lei;
+
+XIV - Negar execução a lei federal, estadual ou municipal, ou deixar de cumprir ordem judicial, sem dar o motivo da recusa ou da impossibilidade, por escrito, a autoridade competente;
+
+XV - Deixar de fornecer certidões de atos ou contratos municipais, dentro do prazo estabelecido em lei.
+
+XVI – deixar de ordenar a redução do montante da dívida consolidada, nos prazos estabelecidos em lei, quando o montante ultrapassar o valor resultante da aplicação do limite máximo fixado pelo Senado Federal; 
+
+XVII – ordenar ou autorizar a abertura de crédito em desacordo com os limites estabelecidos pelo Senado Federal, sem fundamento na lei orçamentária ou na de crédito adicional ou com inobservância de prescrição legal;
+
+XVIII – deixar de promover ou de ordenar, na forma da lei, o cancelamento, a amortização ou a constituição de reserva para anular os efeitos de operação de crédito realizada com inobservância de limite, condição ou montante estabelecido em lei; 
+
+XIX – deixar de promover ou de ordenar a liquidação integral de operação de crédito por antecipação de receita orçamentária, inclusive os respectivos juros e demais encargos, até o encerramento do exercício financeiro; 
+
+XX – ordenar ou autorizar, em desacordo com a lei, a realização de operação de crédito com qualquer um dos demais entes da Federação, inclusive suas entidades da administração indireta, ainda que na forma de novação, refinanciamento ou postergação de dívida contraída anteriormente; 
+
+XXI – captar recursos a título de antecipação de receita de tributo ou contribuição cujo fato gerador ainda não tenha ocorrido; 
+
+XXII – ordenar ou autorizar a destinação de recursos provenientes da emissão de títulos para finalidade diversa da prevista na lei que a autorizou; 
+
+XXIII – realizar ou receber transferência voluntária em desacordo com limite ou condição estabelecida em lei.
+
+§1º Os crimes definidos neste artigo são de ação pública, punidos os dos itens I e II, com a pena de reclusão, de dois a doze anos, e os demais, com a pena de detenção, de três meses a três anos.
+
+§ 2º A condenação definitiva em qualquer dos crimes definidos neste artigo, acarreta a perda de cargo e a inabilitação, pelo prazo de cinco anos, para o exercício de cargo ou função pública, eletivo ou de nomeação, sem prejuízo da reparação civil do dano causado ao patrimônio público ou particular.</string>
+		<key>exemplo</key>
+		<string>I: 
+Exemplo: Prefeitos Municipais que transfere recursos do Fundo Municipal de Saúde para conta de particular sem qualquer respaldo legal (TJ-PR - ACR: 5525015 PR 0552501-5, Relator: Noeval de Quadros, Data de Julgamento: 06/05/2009, 2ª Câmara Criminal, Data de Publicação: DJ: 143).
+III: 
+Exemplo: Prefeitos municipais que aplicou recursos destinados ao PETI – Programa de Erradicação do Trabalho Infantil no pagamento de servidores públicos (TRF-5, ACR 5692/PE (2006.83.03.000194-0), Relator: Desembargador Federal Vladimir Carvalho, Data de Julgamento: 02/10/2008, Terceira Turma) 
+IV: 
+Exemplo: Prefeitos municipais que aplicou recursos de convênio para a construção de açude público na construção de &quot;passagens molhadas&quot; (STF - AP: 409 CE , Relator: Min. AYRES BRITTO, Data de Julgamento: 13/05/2010, Tribunal Pleno, Data de Publicação: DJe-120 DIVULG 30-06-2010 PUBLIC 01-07-2010 EMENT VOL-02408-01 PP-00011) 
+V: 
+Exemplo: Prefeitos que realiza/autoriza o repasse de recursos a empresa contratada sem que tivesse tido qualquer contraprestação de serviços (TRF-3 - ACR: 37369 MS 97.03.037369-0, Relator: JUIZ CONVOCADO SILVIO GEMAQUE, Data de Julgamento: 03/08/2010, PRIMEIRA TURMA). 
+VI: 
+Exemplo: Prefeitos que ignorou dever legal de disponibilizar a Câmara de Vereadores uma via da prestação de contas anuais encaminhada a Corte de Contas, observada semelhança no que tange ao prazo e a forma (TJ-MA - DEN: 236462006 MA , Relator: MÁRIO LIMA REIS, Data de Julgamento: 22/08/2008, SAO DOMINGOS DO MARANHAO). 
+VII: 
+Exemplo: Prefeitos que deixa de prestar contas da aplicação dos recursos recebidos (TRF-1 - ACR: 7718 PA 0007718-76.2007.4.01.3900, Relator: DESEMBARGADOR FEDERAL MÁRIO CÉSAR RIBEIRO, Data de Julgamento: 09/08/2010, QUARTA TURMA, Data de Publicação: e-DJF1 p.75 de 24/08/2010) 
+VIII: 
+Exemplo: Prefeitos que contraiu empréstimo para o Município sem autorização da Câmara Municipal dando como garantia um cheque da própria Prefeitura (TJ-PR - ACR: 2118981 PR Apelação Crime - 0211898-1, Relator: Idevan Lopes, Data de Julgamento: 22/05/2003, Segunda Câmara Criminal (extinto TA), Data de Publicação: 13/06/2003 DJ: 6390). 
+IX: 
+Exemplo: Prefeitos que concedeu subvenções em favor de determinada agremiação esportiva sem autorização da Câmara Municipal e em total desacordo com a legislação em vigor, visto que suplementou dotação orçamentária sem a prévia exposição justificativa e autorizou o desvio de dinheiro municipal para quem não havia sido contemplado com dotação orçamentária (TJ-PR - APN: 1391331 PR 0139133-1, Relator: Mendonça de Anunciação, Data de Julgamento: 18/07/2008, Órgão Especial, Data de Publicação: DJ: 7669) 
+X: 
+Exemplo: Prefeitos que alienou bens imóveis municipais, sem autorização da Câmara Municipal e em desacordo com o disposto na Lei n.º 8.666/93, bem como no Código Civil e na Lei Orgânica Municipal (TJ-RJ - APL: 00007228320068190013 RJ 0000722-83.2006.8.19.0013, Relator: DES. MARIA SANDRA KAYAT DIREITO, Data de Julgamento: 01/04/2014, PRIMEIRA CAMARA CRIMINAL, Data de Publicação: 08/04/2014 17:10). 
+XIII: 
+Exemplo: Prefeitos municipais que nomeia servidor efetivo para exercer cargo em comissão cumulando indevidamente os vencimentos de ambos os cargos (TJ-PR, Relator: Telmo Cherem, Data de Julgamento: 16/05/2002, 2ª Câmara Criminal) 
+XIV: 
+Exemplo: Prefeitos que não adotou as medidas necessárias ao cumprimento de ordem judicial, consistente na adoção das providências para modificar as instalações e fornecer equipamentos suficientes para o funcionamento do conselhou tutelar (TJ-ES - APN: 100060040357 ES 100060040357, Relator: SÉRGIO BIZZOTTO PESSOA DE MENDONÇA, Data de Julgamento: 27/08/2008, PRIMEIRA CÂMARA CRIMINAL, Data de Publicação: 01/10/2008). 
+XV: 
+Exemplo: Prefeitos que deixou de encaminhar informações solicitadas pela Câmara Municipal de empresas vencedoras de processos licitatórios, desrespeitando a Constituição Federal de 1988, artigo 5º, inciso XXXIII, bem assim a Lei Orgânica Municipal (TJ-PR - APN: 919866 PR Ação Penal (Cam) - 0091986-6, Relator: José Mauricio Pinto de Almeida, Data de Julgamento: 11/12/2003, 2ª Câmara Criminal, Data de Publicação: 08/03/2004 DJ: 6574). 
+XVII: 
+Exemplo: Prefeitos que determinou a abertura de crédito suplementar sem base normativa (TJ-BA - AP: 00176937020098050000 BA 0017693-70.2009.8.05.0000, Relator: Nágila Maria Sales Brito, Data de Julgamento: 23/08/2012, Segunda Câmara Criminal, Data de Publicação: 17/11/2012).
+</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Emprego irregular de verbas ou rendas públicas</string>
+		<key>text</key>
+		<string>Art. 315 - Dar as verbas ou rendas públicas aplicação diversa da estabelecida em lei:
+Pena - detenção, de um a três meses, ou multa.</string>
+		<key>exemplo</key>
+		<string>Emprego de verbas empenhadas como diárias para o pagamento de pessoal terceirizado (TRF-1 - RCCR: 15385 GO 1999.35.00.015385-6, Relator: DESEMBARGADOR FEDERAL TOURINHO NETO, Data de Julgamento: 15/02/2005, TERCEIRA TURMA, Data de Publicação: 04/03/2005 DJ p.52).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Corrupção ativa
+</string>
+		<key>text</key>
+		<string>Art. 333 - Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício:
+Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa. (Redação dada pela Lei nº 10.763, de 12.11.2003)
+
+Parágrafo único - A pena é aumentada de um terço, se, em razão da vantagem ou promessa, o funcionário retarda ou omite ato de ofício, ou o pratica infringindo dever funcional.</string>
+		<key>exemplo</key>
+		<string>Cidadão que oferece quantia em dinheiro a policiais para evitar autuação e recolhimento de veículo trafegando em situação irregular. (Apelação Crime Nº 70057097362, Quarta Câmara Criminal, Tribunal de Justiça do RS, Relator: Newton Brasil de Leão, Julgado em 05/12/2013).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Improbidade administrativa</string>
+		<key>text</key>
+		<string>Dos Atos de Improbidade Administrativa que Importam Enriquecimento Ilícito
+Art. 9° Constitui ato de improbidade administrativa importando enriquecimento ilícito auferir qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, mandato, função, emprego ou atividade nas entidades mencionadas no art. 1° desta lei, e notadamente:
+
+I - receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público; II - perceber vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de bem móvel ou imóvel, ou a contratação de serviços pelas entidades referidas no art. 1° por preço superior ao valor de mercado; III - perceber vantagem econômica, direta ou indireta, para facilitar a alienação, permuta ou locação de bem público ou o fornecimento de serviço por ente estatal por preço inferior ao valor de mercado; IV - utilizar, em obra ou serviço particular, veículos, máquinas, equipamentos ou material de qualquer natureza, de propriedade ou a disposição de qualquer das entidades mencionadas no art. 1° desta lei, bem como o trabalho de servidores públicos, empregados ou terceiros contratados por essas entidades; V - receber vantagem econômica de qualquer natureza, direta ou indireta, para tolerar a exploração ou a prática de jogos de azar, de lenocínio, de narcotráfico, de contrabando, de usura ou de qualquer outra atividade ilícita, ou aceitar promessa de tal vantagem; VI - receber vantagem econômica de qualquer natureza, direta ou indireta, para fazer declaração falsa sobre medição ou avaliação em obras públicas ou qualquer outro serviço, ou sobre quantidade, peso, medida, qualidade ou característica de mercadorias ou bens fornecidos a qualquer das entidades mencionadas no art. 1º desta lei; VII - adquirir, para si ou para outrem, no exercício de mandato, cargo, emprego ou função pública, bens de qualquer natureza cujo valor seja desproporcional a evolução do patrimônio ou a renda do agente público; VIII - aceitar emprego, comissão ou exercer atividade de consultoria ou assessoramento para pessoa física ou jurídica que tenha interesse suscetível de ser atingido ou amparado por ação ou omissão decorrente das atribuições do agente público, durante a atividade; IX - perceber vantagem econômica para intermediar a liberação ou aplicação de verba pública de qualquer natureza; X - receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado; XI - incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1° desta lei; XII - usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1° desta lei.
+
+
+Dos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário
+Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão, dolosa ou culposa, que enseje perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º desta lei, e notadamente:
+
+I - facilitar ou concorrer por qualquer forma para a incorporação ao patrimônio particular, de pessoa física ou jurídica, de bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1º desta lei; II - permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1º desta lei, sem a observância das formalidades legais ou regulamentares aplicáveis a espécie; III - doar a pessoa física ou jurídica bem como ao ente despersonalizado, ainda que de fins educativos ou assistências, bens, rendas, verbas ou valores do patrimônio de qualquer das entidades mencionadas no art. 1º desta lei, sem observância das formalidades legais e regulamentares aplicáveis a espécie; IV - permitir ou facilitar a alienação, permuta ou locação de bem integrante do patrimônio de qualquer das entidades referidas no art. 1º desta lei, ou ainda a prestação de serviço por parte delas, por preço inferior ao de mercado; V - permitir ou facilitar a aquisição, permuta ou locação de bem ou serviço por preço superior ao de mercado; VI - realizar operação financeira sem observância das normas legais e regulamentares ou aceitar garantia insuficiente ou inidônea; VII - conceder benefício administrativo ou fiscal sem a observância das formalidades legais ou regulamentares aplicáveis a espécie; VIII - frustrar a licitude de processo licitatório ou dispensá-lo indevidamente; IX - ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento; X - agir negligentemente na arrecadação de tributo ou renda, bem como no que diz respeito a conservação do patrimônio público; XI - liberar verba pública sem a estrita observância das normas pertinentes ou influir de qualquer forma para a sua aplicação irregular; XII - permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitamente; XIII - permitir que se utilize, em obra ou serviço particular, veículos, máquinas, equipamentos ou material de qualquer natureza, de propriedade ou a disposição de qualquer das entidades mencionadas no art. 1° desta lei, bem como o trabalho de servidor público, empregados ou terceiros contratados por essas entidades. XIV – celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços públicos por meio da gestão associada sem observar as formalidades previstas na lei; XV – celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei.
+
+
+Dos Atos de Improbidade Administrativa que Atentam Contra os Princípios da Administração Pública
+Art. 11. Constitui ato de improbidade administrativa que atenta contra os princípios da administração pública qualquer ação ou omissão que viole os deveres de honestidade, imparcialidade, legalidade, e lealdade as instituições, e notadamente:
+
+I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra de competência; II - retardar ou deixar de praticar, indevidamente, ato de ofício; III - revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva permanecer em segredo; IV - negar publicidade aos atos oficiais; V - frustrar a licitude de concurso público; VI - deixar de prestar contas quando esteja obrigado a fazê-lo; VII - revelar ou permitir que chegue ao conhecimento de terceiro, antes da respectiva divulgação oficial, teor de medida política ou econômica capaz de afetar o preço de mercadoria, bem ou serviço.</string>
+		<key>exemplo</key>
+		<string>Dos Atos de Improbidade Administrativa que Importam Enriquecimento Ilícito
+
+Exemplo: Gestor da APAE que desviou em proveito próprio recursos repassados por meio de convênio (TJ-SP - APL: 00021017020118260213 SP 0002101-70.2011.8.26.0213, Relator: Amorim Cantuária, Data de Julgamento: 26/02/2013, 3ª Câmara de Direito Público, Data de Publicação: 01/03/2013)
+Exemplo: Prefeitos que adulterou nota fiscal para inserir valor superior ao efetivamente gasto e constante do documento fiscal (TJ-SP - APL: 00026961820058260589 SP 0002696-18.2005.8.26.0589, Relator: Amorim Cantuária, Data de Julgamento: 12/03/2013, 3ª Câmara de Direito Público, Data de Publicação: 14/03/2013).
+Exemplo: Funcionário dos Correios que se apropria de valores que se encontravam no caixa da empresa pública (TRF-5 - AC: 57305020114058400, Relator: Desembargador Federal Geraldo Apoliano, Data de Julgamento: 13/02/2014, Terceira Turma, Data de Publicação: 17/02/2014).
+Exemplo: Pessoa nomeada para cargo comissionado auferindo a respectiva remuneração sem jamais ter exercido suas atribuições e sequer comparecido ao seu local de trabalho, onde deveria cumprir uma jornada de 08 (oito) horas diárias (TJ-MG - AC: 10024101977205001 MG, Relator: Teresa Cristina da Cunha Peixoto, Data de Julgamento: 27/02/2014, Câmaras Cíveis / 8ª CÂMARA CÍVEL, Data de Publicação: 13/03/2014).
+Exemplo: Oficial de Justiça que recebe gratificação em dinheiro com o claro e vil propósito de cumprimento privilegiado de mandado judicial, em benefício dos réus (STJ - REsp: 1291401 RS 2011/0267125-8, Relator: Ministra ELIANA CALMON, Data de Julgamento: 19/09/2013, T2 - SEGUNDA TURMA, Data de Publicação: DJe 26/09/2013).
+Exemplo: Vereadores que ignoraram o disposto no art. 29, VI, da Constituição Federal, e as regras da Lei de Responsabilidade Fiscal e elevaram seus subsídios em mais de 450% aos Vereadores e 575% ao Presidente da Câmara (TJ-SP - APL: 00319597620068260196 SP 0031959-76.2006.8.26.0196, Relator: Rebouças de Carvalho, Data de Julgamento: 18/12/2013, 9ª Câmara de Direito Público, Data de Publicação: 19/12/2013). Dos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário
+
+Exemplo: Prefeitos que contraiu obrigações nos últimos dois quadrimestres de determinado exercício financeiro, sem que houvesse, ao final de seu mandato, disponibilidade financeira para saldá-las (STJ - REsp: 1252341 SP 2011/0056486-5, Relator: Ministra ELIANA CALMON, Data de Julgamento: 05/09/2013, T2 - SEGUNDA TURMA, Data de Publicação: DJe 17/09/2013).
+Exemplo: Prefeitos que firmam convênio com determinada igreja por intermédio do qual é cedido ao Município área de imóvel de sua propriedade para a instalação de salas de aula até a conclusão da construção de escola municipal. Já o Município concedeu os préstimos de servidor público para trabalhar na construção da sede da instituição religiosa (TJ-SP - APL: 91241063720078260000 SP 9124106-37.2007.8.26.0000, Relator: Aroldo Viotti, Data de Julgamento: 15/04/2014, 11ª Câmara de Direito Público, Data de Publicação: 13/05/2014).
+Exemplo: Servidor público que acumulou indevidamente cargos públicos remunerados (TJ-SP - APL: 00002255520118260480 SP 0000225-55.2011.8.26.0480, Relator: Francisco Bianco, Data de Julgamento: 10/03/2014, 5ª Câmara de Direito Público, Data de Publicação: 18/03/2014).
+Exemplo: Contratação de artistas musicais fora das hipótese de inexigibilidade de licitação causando prejuízo ao erário (TJ-DF - APC: 20080111606099 DF 0021612-44.2008.8.07.0001, Relator: ROMEU GONZAGA NEIVA, Data de Julgamento: 28/08/2013, 5ª Turma Cível, Data de Publicação: Publicado no DJE : 05/09/2013 . Pág.: 144).
+Exemplo: Prefeitos que frustra a livre concorrência, com contratação, inclusive, de empresas possivelmente ‘fantasmas’ (TRF-1 - AC: 4452 MA 0004452-36.2006.4.01.3700, Relator: DESEMBARGADOR FEDERAL I&apos;TALO FIORAVANTI SABO MENDES, Data de Julgamento: 11/12/2012, QUARTA TURMA, Data de Publicação: e-DJF1 p.76 de 06/03/2013).
+Exemplo: Prefeito que dispensou indevidamente a necessária licitação para contração de empresas inexistentes, registrando, ainda, a não comprovação da execução dos serviços (TJ-PR 8608908 PR 860890-8 (Acórdão), Relator: Abraham Lincoln Calixto, Data de Julgamento: 19/06/2012, 4ª Câmara Cível). Dos Atos de Improbidade Administrativa que Atentam Contra os Princípios da Administração Pública
+
+Exemplo: Prefeitos que contratam servidores sem concurso público (STJ - AgRg no AREsp: 135509 SP 2012/0005580-7, Relator: Ministra ELIANA CALMON, Data de Julgamento: 10/12/2013, T2 - SEGUNDA TURMA, Data de Publicação: DJe 18/12/2013).
+Exemplo: Prefeitos responsáveis pela prática de assédio moral prejudicando servidora pública (STJ - REsp: 1286466 RS 2011/0058560-5, Relator: Ministra ELIANA CALMON, Data de Julgamento: 03/09/2013, T2 - SEGUNDA TURMA, Data de Publicação: DJe 18/09/2013).
+Exemplo: Professor de escola pública que pratica atos obscenos e atentado violento ao puder contra alunas da escola municipal, crianças com seis e sete anos de idade, aproveitando-se de sua função de professor, enquanto ministrava aula (STJ - REsp: 1219915 MG 2010/0194046-1, Relator: Ministra ELIANA CALMON, Data de Julgamento: 19/11/2013, T2 - SEGUNDA TURMA, Data de Publicação: DJe 29/11/2013).
+Exemplo: Prefeitos que nomeiam parentes para ocupar cargos em comissão (STJ - AgRg no REsp: 1386255 PB 2013/0172703-3, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 24/04/2014, T2 - SEGUNDA TURMA, Data de Publicação: DJe 02/05/2014).
+Exemplo: Prefeitos que não prestou contas de recursos repassados ao Município (TRF-1 - AC: 200932010003095 AM 2009.32.01.000309-5, Relator: DESEMBARGADOR FEDERAL CATÃO ALVES, Data de Julgamento: 10/09/2013, TERCEIRA TURMA, Data de Publicação: e-DJF1 p.312 de 20/09/2013)
+Exemplo: Prefeitos que de forma reiterada efetiva contratações irregulares, sem o necessário concurso público, propiciando prestígio político (TJ-MG - AC: 10153040346972002 MG , Relator: Edilson Fernandes, Data de Julgamento: 22/10/2013, Câmaras Cíveis / 6ª CÂMARA CÍVEL, Data de Publicação: 01/11/2013).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Facilitação de contrabando ou descaminho</string>
+		<key>text</key>
+		<string>Art. 318 - Facilitar, com infração de dever funcional, a prática de contrabando ou descaminho (art. 334):
+Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 8.137, de 27.12.1990)</string>
+		<key>exemplo</key>
+		<string>Auditor Fiscal que deixa de conferir de forma efetiva a documentação relativa às cargas antes do desembaraço, bem como efetuar a conferência física das mercadorias diante da enorme discrepância entre os valores e a descrição das mercadorias nos documentos fiscais (TRF-1 - ACR: 118916620084013300 BA 0011891-66.2008.4.01.3300, Relator: JUIZ FEDERAL KLAUS KUSCHEL, Data de Julgamento: 04/12/2013, TERCEIRA TURMA, Data de Publicação: e-DJF1 p.1069 de 19/12/2013).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Corrupção passiva</string>
+		<key>text</key>
+		<string>Art. 317 - Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem:
+Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa. (Redação dada pela Lei nº 10.763, de 12.11.2003)
+
+§ 1º - A pena é aumentada de um terço, se, em conseqüência da vantagem ou promessa, o funcionário retarda ou deixa de praticar qualquer ato de ofício ou o pratica infringindo dever funcional.
+
+§ 2º - Se o funcionário pratica, deixa de praticar ou retarda ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem:
+Pena - detenção, de três meses a um ano, ou multa.</string>
+		<key>exemplo</key>
+		<string>Funcionário público que recebe para si, direta ou indiretamente, em razão de sua função, vantagem indevida e, em decorrência das vantagens, pratica atos de ofício infringindo dever funcional (TJ-SP - APL: 00111017920058260286 SP 0011101-79.2005.8.26.0286, Relator: Guilherme de Souza Nucci, Data de Julgamento: 21/10/2014, 16ª Câmara de Direito Criminal, Data de Publicação: 21/10/2014).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Violação de Sigilo Funcional</string>
+		<key>text</key>
+		<string>Art. 325 - Revelar fato de que tem ciência em razão do cargo e que deva permanecer em segredo, ou facilitar-lhe a revelação:
+Pena - detenção, de seis meses a dois anos, ou multa, se o fato não constitui crime mais grave.
+
+§ 1o Nas mesmas penas deste artigo incorre quem: (Incluído pela Lei nº 9.983, de 2000)
+I – permite ou facilita, mediante atribuição, fornecimento e empréstimo de senha ou qualquer outra forma, o acesso de pessoas não autorizadas a sistemas de informações ou banco de dados da Administração Pública; (Incluído pela Lei nº 9.983, de 2000)
+II – se utiliza, indevidamente, do acesso restrito. (Incluído pela Lei nº 9.983, de 2000)
+
+§ 2o Se da ação ou omissão resulta dano a Administração Pública ou a outrem: (Incluído pela Lei nº 9.983, de 2000)
+Pena – reclusão, de 2 (dois) a 6 (seis) anos, e multa. (Incluído pela Lei nº 9.983, de 2000)</string>
+		<key>exemplo</key>
+		<string>Servidor público que repassa informações privilegiadas ao investigado, frustrando a realização de determinada ação policial (TJ-MG - APR: 10118110006863001 MG , Relator: Matheus Chaves Jardim, Data de Julgamento: 29/05/2014, Câmaras Criminais / 2ª CÂMARA CRIMINAL, Data de Publicação: 09/06/2014).</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Prevaricação</string>
+		<key>text</key>
+		<string>Art. 319 - Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal:
+Pena - detenção, de três meses a um ano, e multa. Art. 319-A. Deixar o Diretor de Penitenciária e/ou agente público, de cumprir seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo: (Incluído pela Lei nº 11.466, de 2007).
+Pena: detenção, de 3 (três) meses a 1 (um) ano.</string>
+		<key>exemplo</key>
+		<string>Policial Rodoviário que retém a Carteira Nacional de Habilitação – CNH de cidadão, forçando-o a trafegar sem documento de porte obrigatório (TRF-2 - ACR: 200951130001730 RJ 2009.51.13.000173-0, Relator: Desembargador Federal MESSOD AZULAY NETO, Data de Julgamento: 15/05/2012, SEGUNDA TURMA ESPECIALIZADA, Data de Publicação: E-DJF2R - Data::29/05/2012 – Página::83/84).</string>
+	</dict>
+</array>
+</plist>

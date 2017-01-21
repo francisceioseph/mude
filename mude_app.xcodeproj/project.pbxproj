@@ -1,0 +1,649 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B0F8EFF1C256CBF009EC947 /* MPDezMedidasTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8EFE1C256CBF009EC947 /* MPDezMedidasTableViewController.swift */; };
+		0B0F8F011C256D13009EC947 /* MPDetalheMedidaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F001C256D13009EC947 /* MPDetalheMedidaViewController.swift */; };
+		0B0F8F031C256DB4009EC947 /* MPDetalhesDezMedidas.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B0F8F021C256DB4009EC947 /* MPDetalhesDezMedidas.plist */; };
+		0B0F8F051C258612009EC947 /* MPAtuacoesCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F041C258612009EC947 /* MPAtuacoesCollectionViewController.swift */; };
+		0B0F8F071C258713009EC947 /* MPOperacoesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F061C258713009EC947 /* MPOperacoesCollectionViewCell.swift */; };
+		0B0F8F091C258F5D009EC947 /* MPAtuacoes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B0F8F081C258F5D009EC947 /* MPAtuacoes.plist */; };
+		0B0F8F0B1C2598CA009EC947 /* MPDetalheOperacaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F0A1C2598CA009EC947 /* MPDetalheOperacaoViewController.swift */; };
+		0B0F8F0D1C259D67009EC947 /* MPTiposCorrupcaoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F0C1C259D67009EC947 /* MPTiposCorrupcaoTableViewController.swift */; };
+		0B0F8F0F1C259E09009EC947 /* MPDetalheTipoCorrupcaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F0E1C259E09009EC947 /* MPDetalheTipoCorrupcaoViewController.swift */; };
+		0B0F8F111C259F9E009EC947 /* MPTiposCorrupcao.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B0F8F101C259F9E009EC947 /* MPTiposCorrupcao.plist */; };
+		0B0F8F151C25B0A0009EC947 /* MPDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F141C25B0A0009EC947 /* MPDownloader.swift */; };
+		0B0F8F171C25B33D009EC947 /* MPDownloadTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F161C25B33D009EC947 /* MPDownloadTableViewController.swift */; };
+		0B0F8F191C25B3D5009EC947 /* MPUrls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0F8F181C25B3D5009EC947 /* MPUrls.swift */; };
+		0B0F8F1B1C25B671009EC947 /* MPUrlAddresses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B0F8F1A1C25B671009EC947 /* MPUrlAddresses.plist */; };
+		0BA9351E1C25E33D00A9F91B /* EKToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BA9351C1C25E33D00A9F91B /* EKToast.m */; };
+		0BA9351F1C25E33D00A9F91B /* EKToast.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BA9351D1C25E33D00A9F91B /* EKToast.xib */; };
+		0BD26AB01C05C188007F87B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AAF1C05C188007F87B5 /* AppDelegate.swift */; };
+		0BD26AB51C05C188007F87B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BD26AB31C05C188007F87B5 /* Main.storyboard */; };
+		0BD26AB81C05C188007F87B5 /* mude_app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AB61C05C188007F87B5 /* mude_app.xcdatamodeld */; };
+		0BD26ABA1C05C188007F87B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BD26AB91C05C188007F87B5 /* Assets.xcassets */; };
+		0BD26ABD1C05C188007F87B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BD26ABB1C05C188007F87B5 /* LaunchScreen.storyboard */; };
+		0BD26AC81C05C188007F87B5 /* mude_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AC71C05C188007F87B5 /* mude_appTests.swift */; };
+		0BD26AD31C05C188007F87B5 /* mude_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AD21C05C188007F87B5 /* mude_appUITests.swift */; };
+		0BD26AE51C05DD50007F87B5 /* MPRoundedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AE41C05DD50007F87B5 /* MPRoundedTableViewCell.swift */; };
+		0BD26AE71C05DFBB007F87B5 /* MPCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD26AE61C05DFBB007F87B5 /* MPCardView.swift */; };
+		0BE5D7FC1C2835370095380A /* MPAboutTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BE5D7FB1C2835370095380A /* MPAboutTableViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0BD26AC41C05C188007F87B5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0BD26AA41C05C188007F87B5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0BD26AAB1C05C188007F87B5;
+			remoteInfo = mude_app;
+		};
+		0BD26ACF1C05C188007F87B5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0BD26AA41C05C188007F87B5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0BD26AAB1C05C188007F87B5;
+			remoteInfo = mude_app;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0B0F8EFE1C256CBF009EC947 /* MPDezMedidasTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDezMedidasTableViewController.swift; sourceTree = "<group>"; };
+		0B0F8F001C256D13009EC947 /* MPDetalheMedidaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDetalheMedidaViewController.swift; sourceTree = "<group>"; };
+		0B0F8F021C256DB4009EC947 /* MPDetalhesDezMedidas.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MPDetalhesDezMedidas.plist; sourceTree = "<group>"; };
+		0B0F8F041C258612009EC947 /* MPAtuacoesCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPAtuacoesCollectionViewController.swift; sourceTree = "<group>"; };
+		0B0F8F061C258713009EC947 /* MPOperacoesCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPOperacoesCollectionViewCell.swift; sourceTree = "<group>"; };
+		0B0F8F081C258F5D009EC947 /* MPAtuacoes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MPAtuacoes.plist; sourceTree = "<group>"; };
+		0B0F8F0A1C2598CA009EC947 /* MPDetalheOperacaoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDetalheOperacaoViewController.swift; sourceTree = "<group>"; };
+		0B0F8F0C1C259D67009EC947 /* MPTiposCorrupcaoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPTiposCorrupcaoTableViewController.swift; sourceTree = "<group>"; };
+		0B0F8F0E1C259E09009EC947 /* MPDetalheTipoCorrupcaoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDetalheTipoCorrupcaoViewController.swift; sourceTree = "<group>"; };
+		0B0F8F101C259F9E009EC947 /* MPTiposCorrupcao.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MPTiposCorrupcao.plist; sourceTree = "<group>"; };
+		0B0F8F141C25B0A0009EC947 /* MPDownloader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDownloader.swift; sourceTree = "<group>"; };
+		0B0F8F161C25B33D009EC947 /* MPDownloadTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPDownloadTableViewController.swift; sourceTree = "<group>"; };
+		0B0F8F181C25B3D5009EC947 /* MPUrls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPUrls.swift; sourceTree = "<group>"; };
+		0B0F8F1A1C25B671009EC947 /* MPUrlAddresses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MPUrlAddresses.plist; sourceTree = "<group>"; };
+		0BA935121C25E0B100A9F91B /* mude_app-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "mude_app-Bridging-Header.h"; sourceTree = "<group>"; };
+		0BA9351B1C25E33D00A9F91B /* EKToast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EKToast.h; sourceTree = "<group>"; };
+		0BA9351C1C25E33D00A9F91B /* EKToast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EKToast.m; sourceTree = "<group>"; };
+		0BA9351D1C25E33D00A9F91B /* EKToast.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EKToast.xib; sourceTree = "<group>"; };
+		0BD26AAC1C05C188007F87B5 /* mude_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mude_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BD26AAF1C05C188007F87B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0BD26AB41C05C188007F87B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0BD26AB71C05C188007F87B5 /* mude_app.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = mude_app.xcdatamodel; sourceTree = "<group>"; };
+		0BD26AB91C05C188007F87B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0BD26ABC1C05C188007F87B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0BD26ABE1C05C188007F87B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BD26AC31C05C188007F87B5 /* mude_appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mude_appTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BD26AC71C05C188007F87B5 /* mude_appTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mude_appTests.swift; sourceTree = "<group>"; };
+		0BD26AC91C05C188007F87B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BD26ACE1C05C188007F87B5 /* mude_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mude_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BD26AD21C05C188007F87B5 /* mude_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mude_appUITests.swift; sourceTree = "<group>"; };
+		0BD26AD41C05C188007F87B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BD26AE41C05DD50007F87B5 /* MPRoundedTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPRoundedTableViewCell.swift; sourceTree = "<group>"; };
+		0BD26AE61C05DFBB007F87B5 /* MPCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPCardView.swift; sourceTree = "<group>"; };
+		0BE5D7FB1C2835370095380A /* MPAboutTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPAboutTableViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0BD26AA91C05C188007F87B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26AC01C05C188007F87B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26ACB1C05C188007F87B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0BD26AA31C05C188007F87B5 = {
+			isa = PBXGroup;
+			children = (
+				0BD26AAE1C05C188007F87B5 /* mude_app */,
+				0BD26AC61C05C188007F87B5 /* mude_appTests */,
+				0BD26AD11C05C188007F87B5 /* mude_appUITests */,
+				0BD26AAD1C05C188007F87B5 /* Products */,
+				F6262F3211F36C0FC593B642 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0BD26AAD1C05C188007F87B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0BD26AAC1C05C188007F87B5 /* mude_app.app */,
+				0BD26AC31C05C188007F87B5 /* mude_appTests.xctest */,
+				0BD26ACE1C05C188007F87B5 /* mude_appUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0BD26AAE1C05C188007F87B5 /* mude_app */ = {
+			isa = PBXGroup;
+			children = (
+				0BD26AE31C05DD30007F87B5 /* helpers */,
+				0BD26AE01C05C32E007F87B5 /* controllers */,
+				0BD26AAF1C05C188007F87B5 /* AppDelegate.swift */,
+				0BD26AB31C05C188007F87B5 /* Main.storyboard */,
+				0BD26AB91C05C188007F87B5 /* Assets.xcassets */,
+				0BD26ABB1C05C188007F87B5 /* LaunchScreen.storyboard */,
+				0BD26ABE1C05C188007F87B5 /* Info.plist */,
+				0BD26AB61C05C188007F87B5 /* mude_app.xcdatamodeld */,
+			);
+			path = mude_app;
+			sourceTree = "<group>";
+		};
+		0BD26AC61C05C188007F87B5 /* mude_appTests */ = {
+			isa = PBXGroup;
+			children = (
+				0BD26AC71C05C188007F87B5 /* mude_appTests.swift */,
+				0BD26AC91C05C188007F87B5 /* Info.plist */,
+			);
+			path = mude_appTests;
+			sourceTree = "<group>";
+		};
+		0BD26AD11C05C188007F87B5 /* mude_appUITests */ = {
+			isa = PBXGroup;
+			children = (
+				0BD26AD21C05C188007F87B5 /* mude_appUITests.swift */,
+				0BD26AD41C05C188007F87B5 /* Info.plist */,
+			);
+			path = mude_appUITests;
+			sourceTree = "<group>";
+		};
+		0BD26AE01C05C32E007F87B5 /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0B0F8EFE1C256CBF009EC947 /* MPDezMedidasTableViewController.swift */,
+				0B0F8F001C256D13009EC947 /* MPDetalheMedidaViewController.swift */,
+				0B0F8F041C258612009EC947 /* MPAtuacoesCollectionViewController.swift */,
+				0B0F8F0A1C2598CA009EC947 /* MPDetalheOperacaoViewController.swift */,
+				0B0F8F0C1C259D67009EC947 /* MPTiposCorrupcaoTableViewController.swift */,
+				0B0F8F0E1C259E09009EC947 /* MPDetalheTipoCorrupcaoViewController.swift */,
+				0BE5D7FB1C2835370095380A /* MPAboutTableViewController.swift */,
+			);
+			name = controllers;
+			sourceTree = "<group>";
+		};
+		0BD26AE31C05DD30007F87B5 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				0BA9351B1C25E33D00A9F91B /* EKToast.h */,
+				0BA9351C1C25E33D00A9F91B /* EKToast.m */,
+				0BA9351D1C25E33D00A9F91B /* EKToast.xib */,
+				0B0F8F021C256DB4009EC947 /* MPDetalhesDezMedidas.plist */,
+				0B0F8F081C258F5D009EC947 /* MPAtuacoes.plist */,
+				0B0F8F101C259F9E009EC947 /* MPTiposCorrupcao.plist */,
+				0B0F8F1A1C25B671009EC947 /* MPUrlAddresses.plist */,
+				0BD26AE41C05DD50007F87B5 /* MPRoundedTableViewCell.swift */,
+				0BD26AE61C05DFBB007F87B5 /* MPCardView.swift */,
+				0B0F8F061C258713009EC947 /* MPOperacoesCollectionViewCell.swift */,
+				0B0F8F141C25B0A0009EC947 /* MPDownloader.swift */,
+				0B0F8F161C25B33D009EC947 /* MPDownloadTableViewController.swift */,
+				0B0F8F181C25B3D5009EC947 /* MPUrls.swift */,
+				0BA935121C25E0B100A9F91B /* mude_app-Bridging-Header.h */,
+			);
+			name = helpers;
+			sourceTree = "<group>";
+		};
+		F6262F3211F36C0FC593B642 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0BD26AAB1C05C188007F87B5 /* mude_app */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0BD26AD71C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_app" */;
+			buildPhases = (
+				0BD26AA81C05C188007F87B5 /* Sources */,
+				0BD26AA91C05C188007F87B5 /* Frameworks */,
+				0BD26AAA1C05C188007F87B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mude_app;
+			productName = mude_app;
+			productReference = 0BD26AAC1C05C188007F87B5 /* mude_app.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0BD26AC21C05C188007F87B5 /* mude_appTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0BD26ADA1C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_appTests" */;
+			buildPhases = (
+				0BD26ABF1C05C188007F87B5 /* Sources */,
+				0BD26AC01C05C188007F87B5 /* Frameworks */,
+				0BD26AC11C05C188007F87B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0BD26AC51C05C188007F87B5 /* PBXTargetDependency */,
+			);
+			name = mude_appTests;
+			productName = mude_appTests;
+			productReference = 0BD26AC31C05C188007F87B5 /* mude_appTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		0BD26ACD1C05C188007F87B5 /* mude_appUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0BD26ADD1C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_appUITests" */;
+			buildPhases = (
+				0BD26ACA1C05C188007F87B5 /* Sources */,
+				0BD26ACB1C05C188007F87B5 /* Frameworks */,
+				0BD26ACC1C05C188007F87B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0BD26AD01C05C188007F87B5 /* PBXTargetDependency */,
+			);
+			name = mude_appUITests;
+			productName = mude_appUITests;
+			productReference = 0BD26ACE1C05C188007F87B5 /* mude_appUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0BD26AA41C05C188007F87B5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "Francisco José A. C. Souza";
+				TargetAttributes = {
+					0BD26AAB1C05C188007F87B5 = {
+						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = RLZU8LFH67;
+						LastSwiftMigration = 0820;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+					0BD26AC21C05C188007F87B5 = {
+						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0820;
+						TestTargetID = 0BD26AAB1C05C188007F87B5;
+					};
+					0BD26ACD1C05C188007F87B5 = {
+						CreatedOnToolsVersion = 7.1.1;
+						LastSwiftMigration = 0820;
+						TestTargetID = 0BD26AAB1C05C188007F87B5;
+					};
+				};
+			};
+			buildConfigurationList = 0BD26AA71C05C188007F87B5 /* Build configuration list for PBXProject "mude_app" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0BD26AA31C05C188007F87B5;
+			productRefGroup = 0BD26AAD1C05C188007F87B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0BD26AAB1C05C188007F87B5 /* mude_app */,
+				0BD26AC21C05C188007F87B5 /* mude_appTests */,
+				0BD26ACD1C05C188007F87B5 /* mude_appUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0BD26AAA1C05C188007F87B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BD26ABD1C05C188007F87B5 /* LaunchScreen.storyboard in Resources */,
+				0B0F8F031C256DB4009EC947 /* MPDetalhesDezMedidas.plist in Resources */,
+				0B0F8F091C258F5D009EC947 /* MPAtuacoes.plist in Resources */,
+				0B0F8F1B1C25B671009EC947 /* MPUrlAddresses.plist in Resources */,
+				0BD26ABA1C05C188007F87B5 /* Assets.xcassets in Resources */,
+				0BD26AB51C05C188007F87B5 /* Main.storyboard in Resources */,
+				0B0F8F111C259F9E009EC947 /* MPTiposCorrupcao.plist in Resources */,
+				0BA9351F1C25E33D00A9F91B /* EKToast.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26AC11C05C188007F87B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26ACC1C05C188007F87B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0BD26AA81C05C188007F87B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B0F8F051C258612009EC947 /* MPAtuacoesCollectionViewController.swift in Sources */,
+				0BD26AE51C05DD50007F87B5 /* MPRoundedTableViewCell.swift in Sources */,
+				0B0F8F171C25B33D009EC947 /* MPDownloadTableViewController.swift in Sources */,
+				0B0F8F0F1C259E09009EC947 /* MPDetalheTipoCorrupcaoViewController.swift in Sources */,
+				0BE5D7FC1C2835370095380A /* MPAboutTableViewController.swift in Sources */,
+				0B0F8F011C256D13009EC947 /* MPDetalheMedidaViewController.swift in Sources */,
+				0B0F8F191C25B3D5009EC947 /* MPUrls.swift in Sources */,
+				0B0F8F0D1C259D67009EC947 /* MPTiposCorrupcaoTableViewController.swift in Sources */,
+				0B0F8F071C258713009EC947 /* MPOperacoesCollectionViewCell.swift in Sources */,
+				0BD26AB01C05C188007F87B5 /* AppDelegate.swift in Sources */,
+				0BD26AB81C05C188007F87B5 /* mude_app.xcdatamodeld in Sources */,
+				0B0F8F151C25B0A0009EC947 /* MPDownloader.swift in Sources */,
+				0B0F8EFF1C256CBF009EC947 /* MPDezMedidasTableViewController.swift in Sources */,
+				0B0F8F0B1C2598CA009EC947 /* MPDetalheOperacaoViewController.swift in Sources */,
+				0BD26AE71C05DFBB007F87B5 /* MPCardView.swift in Sources */,
+				0BA9351E1C25E33D00A9F91B /* EKToast.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26ABF1C05C188007F87B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BD26AC81C05C188007F87B5 /* mude_appTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0BD26ACA1C05C188007F87B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0BD26AD31C05C188007F87B5 /* mude_appUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0BD26AC51C05C188007F87B5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0BD26AAB1C05C188007F87B5 /* mude_app */;
+			targetProxy = 0BD26AC41C05C188007F87B5 /* PBXContainerItemProxy */;
+		};
+		0BD26AD01C05C188007F87B5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0BD26AAB1C05C188007F87B5 /* mude_app */;
+			targetProxy = 0BD26ACF1C05C188007F87B5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0BD26AB31C05C188007F87B5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0BD26AB41C05C188007F87B5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0BD26ABB1C05C188007F87B5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0BD26ABC1C05C188007F87B5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0BD26AD51C05C188007F87B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0BD26AD61C05C188007F87B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0BD26AD81C05C188007F87B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = mude_app/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "mude_app/mude_app-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		0BD26AD91C05C188007F87B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = mude_app/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "mude_app/mude_app-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		0BD26ADB1C05C188007F87B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = mude_appTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-appTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mude_app.app/mude_app";
+			};
+			name = Debug;
+		};
+		0BD26ADC1C05C188007F87B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = mude_appTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-appTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mude_app.app/mude_app";
+			};
+			name = Release;
+		};
+		0BD26ADE1C05C188007F87B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mude_appUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-appUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = mude_app;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		0BD26ADF1C05C188007F87B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mude_appUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ifce.mude-appUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = mude_app;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0BD26AA71C05C188007F87B5 /* Build configuration list for PBXProject "mude_app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD26AD51C05C188007F87B5 /* Debug */,
+				0BD26AD61C05C188007F87B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0BD26AD71C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD26AD81C05C188007F87B5 /* Debug */,
+				0BD26AD91C05C188007F87B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0BD26ADA1C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_appTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD26ADB1C05C188007F87B5 /* Debug */,
+				0BD26ADC1C05C188007F87B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0BD26ADD1C05C188007F87B5 /* Build configuration list for PBXNativeTarget "mude_appUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0BD26ADE1C05C188007F87B5 /* Debug */,
+				0BD26ADF1C05C188007F87B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		0BD26AB61C05C188007F87B5 /* mude_app.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				0BD26AB71C05C188007F87B5 /* mude_app.xcdatamodel */,
+			);
+			currentVersion = 0BD26AB71C05C188007F87B5 /* mude_app.xcdatamodel */;
+			path = mude_app.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 0BD26AA41C05C188007F87B5 /* Project object */;
+}

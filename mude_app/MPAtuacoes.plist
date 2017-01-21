@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Zelotes</string>
+		<key>icon</key>
+		<string>icon-zelotes</string>
+		<key>text</key>
+		<string>Operação deflagrada em 26 de março de 2015, como parte das investigações do Ministério Público Federal (MPF) para apurar suspeitas de manipulação de julgamentos de processos no Conselho Administrativo de Recursos Fiscais (Carf), ligado ao Ministério da Fazenda. Ao todo, 74 julgamentos realizados entre 2005 e 2013 estão sendo analisados. Juntos, eles somam R$ 19,6 bilhões que deixaram de ser recolhidos aos cofres públicos. A principal suspeita é que parte dos débitos lançados e cobrados pela Receita Federal foi cancelada de forma indevida, com base nos julgamentos manipulados.
+
+Integrantes do esquema – em geral, ex-conselheiros e consultores – selecionavam processos de grande valor que estavam na pauta de julgamento do Carf. Em seguida, os operadores procuravam o contribuinte a quem ofereciam “solução”. Após a contratação, o grupo passava a atuar no fluxo do processo aproveitando da influência de integrantes do grupo e, possivelmente, recorrendo à corrupção de conselheiros. O resultado do julgamento favorável ao contribuinte cancelava o débito, impondo prejuízos milionários ao fisco.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Lava Jato</string>
+		<key>icon</key>
+		<string>icon-lavajato</string>
+		<key>text</key>
+		<string>A Operação Lava-Jato foi deflagrada no dia 17 de março deste ano pela Polícia Federal. O objetivo foi desarticular um esquema de evasão de divisas, lavagem de dinheiro e outros crimes financeiros capitaneados por conhecidos doleiros. Em virtude das medidas de busca e apreensão iniciais, mais de 80 mil documentos estão sendo analisados. Acordos de colaboração celebrados pelo Ministério Público levaram à expansão e ao aprofundamento das investigações, conduzindo a um total de 7 novas fases ou operações, resultando na possibilidade de investigar e punir executivos da Petrobras, executivos de grandes empreiteiras e operadores que praticaram crimes como formação de cartel, de organização criminosa, de corrupção e de lavagem de dinheiro.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Carlinhos Cachoeira</string>
+		<key>icon</key>
+		<string>icon-carlcac</string>
+		<key>text</key>
+		<string>No fim de fevereiro de 2012, o MPF/GO e a Polícia Federal no Distrito Federal (PF/DF), com auxílio do Escritório de Inteligência da Receita Federal em Brasília, deflagraram a operação Monte Carlo contra a máfia dos caça-níqueis, liderada por Carlinhos Cachoeira, com atuação em Goiás e no Distrito Federal, principalmente.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sanguessuga</string>
+		<key>icon</key>
+		<string>icon-opera</string>
+		<key>text</key>
+		<string>A Controladoria Geral da União (CGU) e o MPF revelaram a existência de uma organização criminosa que, desde o ano 2000, desviava verbas federais do Fundo Nacional de Saúde (FNS). A primeira vez em que foi detectada a atuação do esquema pelos órgãos de controle foi em 2002, no Acre, quando o Ministério Público Federal daquele estado verificou a existência de manipulação de licitações. Em maio de 2006, a Polícia Federal deflagrou a Operação Sanguessuga, em que deputados, prefeitos e empresários foram flagrados atuando em um esquema que consistia na venda de emendas individuais ou genéricas ao Orçamento Geral da União, fraude em licitação e superfaturamento na compra de ambulâncias ou equipamentos hospitalares.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sudam</string>
+		<key>icon</key>
+		<string>icon-sudam</string>
+		<key>text</key>
+		<string>O caso da Superintendência do Desenvolvimento da Amazônia (Sudam) totalizou 24 ações civis em desfavor de 30 empresários, um agente político, 27 servidores públicos, 29 pessoas jurídicas. O MPF busca em juízo o ressarcimento do dano material ao erário, calculado em R$ 323.216.526,98. Estão entre os crimes praticados estão estelionato, falsidade ideológica, uso de documento falso e peculato.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mensalão</string>
+		<key>icon</key>
+		<string>icon-mensa</string>
+		<key>text</key>
+		<string>Mensalão é como ficou conhecido o escândalo de corrupção que ocorreu entre 2005 e 2006. O esquema consistia na compra de votos de parlamentares no Congresso Nacional em troca de apoio.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Banco Santos</string>
+		<key>icon</key>
+		<string>icon-bancosantos</string>
+		<key>text</key>
+		<string>A falência do Banco Santos começou em 12 de novembro de 2004. Na ocasião, o Banco Central do Brasil (Bacen) decretou a intervenção na instituição financeira. Foi descoberto que a situação do banco vinha se deteriorando e que havia um déficit inicialmente calculado em R$ 700 milhões. Depois descobriu-se que este valor chegava a R$ 2,2 bilhões.
+
+O dono do banco, Edemar Cid Ferreira, e vários diretores foram afastados. O Bacen nomeou como interventor Vânio César Aguiar, que teria como missão apurar possíveis fraudes e avaliar a situação financeira da instituição para que fosse decidido o futuro do Banco Santos.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Banestado</string>
+		<key>icon</key>
+		<string>icon-banestado</string>
+		<key>text</key>
+		<string>Entre maio de 2003 e setembro de 2007, uma força-tarefa encabeçada pelo Ministério Público Federal denunciou 684 pessoas, das quais 97 foram condenadas, em um esquema que envolvia a remessa fraudulenta de U$ 28 bilhões por meio de contas CC-5 (contas de não residentes no Banestado, Banco do Brasil, Banco Araucária, Bemge e Banco Real). O Banestado (Banco do Estado do Paraná) ficou no centro do escândalo. 
+O MPF conseguiu que fossem bloqueados R$ 380 milhões em contas no Brasil e outros R$ 34,7 milhões, no exterior. Para isso, foram investigadas mais de 1.170 contas fora do país – o que resultou em uma base de dados de 1,9 milhão de registros de movimentações financeiras no exterior.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Anaconda</string>
+		<key>icon</key>
+		<string>icon-anac</string>
+		<key>text</key>
+		<string>No início da década de 2000, denúncia recebida em Alagoas deu início a uma investigação conjunta da Polícia Federal e do Ministério Público Federal. Foram autorizadas escutas telefônicas, feitas ao longo de um ano e meio. Elas revelaram o envolvimento de juízes e policiais em esquemas criminosos.
+Advogados e policiais orientavam os criminosos para que brechas em inquéritos fossem deixadas. Assim, juízes poderiam beneficiar os envolvidos. Ao final, entre os presos estavam dois delegados da Polícia Federal, um agente também da PF, quatro empresários e a esposa de um juiz federal. O grupo atuava com ramificações no Pará, Alagoas, Mato Grosso e Rio Grande do Sul.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Luiz Estevão</string>
+		<key>icon</key>
+		<string>icon-luizest</string>
+		<key>text</key>
+		<string>O desvio de verbas públicas durante a construção do Fórum Trabalhista de São Paulo foi objeto de apuração, por meio de Inquérito Civil Público, pelo Ministério Público Federal em São Paulo.
+As investigações tiveram início no final de 1997 e a Ação Civil Pública foi ajuizada em agosto de 1998, quando já se havia apurado um alto valor das verbas públicas desviadas em favor de terceiros, notadamente o ex-juiz Nicolau dos Santos Neto, Fábio Monteiro de Barros Filho e José Eduardo Ferraz, donos e sócios da empresa Incal Inc. e Ikal Construções.
+As liminares pleiteadas pelo MPF foram integralmente deferidas, tendo sido determinado o bloqueio dos bens dos réus, vigente até hoje, quebra do sigilo da conta bancária que recebia os recursos da União para a construção do Fórum Trabalhista e o afastamento do então juiz Nicolau dos Santos Neto do cargo de Presidente da Comissão de Obras para a construção do Fórum Trabalhista.
+Em 1999, após o início do trabalhos da CPI do Judiciário veio à tona a participação do então Senador Luiz Estevão no esquema criminoso, tendo sido descoberto um contrato de gaveta que revelou que 90% das cotas da empresa Incal, recebedora dos recursos públicos, fora transferida, após o término da licitação, ao então Senador Luiz Estevão, fatos que deram ensejo ao ajuizamento de Ação Civil Pública, também pelo MPF em São Paulo, em face de Luiz Estevão, sua mulher e seu grupo empresarial. Foi obtido o bloqueio dos bens de todos os envolvidos, vigente até hoje.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Scuderie Le Cocq</string>
+		<key>icon</key>
+		<string>icon-scuderie</string>
+		<key>text</key>
+		<string>Na década de 1960, policiais no Rio de Janeiro começaram a se reunir para “fazer Justiça a qualquer preço”. O motivo foi a morte de um companheiro, o inspetor Milton Le Cocq (origem do nome do grupo), durante tiroteio com assaltantes.
+A entidade agia como personificação jurídica do crime organizado e como quartel de grupos paramilitares de extermínio de supostos delinquentes. A Scuderie Le Cocq assumia abertamente uma “origem policial” e intervinha na apuração dos crimes cometidos por seus membros, que se chamavam uns aos outros de “irmãozinhos”, para assegurar a eles a impunidade.
+Uma das marcas do grupo era a exposição, em praça pública, dos corpos de suas vítimas, chancelados com a imagem da caveira e dos ossos cruzados. A entidade foi criada oficialmente em 1984.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Jorgina Freitas</string>
+		<key>icon</key>
+		<string>icon-jorgina</string>
+		<key>text</key>
+		<string>Jorgina de Freitas era advogada e procuradora previdenciária. Ela foi condenada em 1992 por organizar esquema criminoso que fraudou, entre o final da década de 1980 e início da de 1990, o Instituto Nacional do Seguro Social (INSS). Ao todo, estima-se que foram desviados valores da ordem de R$ 500 milhões. O caso ficou conhecido como “máfia da previdência”.
+A fraude consistia em desviar mais de 50% de toda a arrecadação do INSS à época e repassá-la ao segurado Assis dos Santos. A indenização foi paga em fevereiro de 1991, sendo que Assis havia falecido em maio de 1986 e o montante permaneceu sob a posse de Jorgina. Havia grandes distorções nos valores e foi comprovado o envolvimento de outras pessoas no esquema.</string>
+	</dict>
+</array>
+</plist>
